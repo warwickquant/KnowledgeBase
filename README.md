@@ -2,8 +2,9 @@
 
 **A comprehensive resource hub for quantitative finance research, learning, and career development.**
 
-<img src="/utils/images/warwick_quant_logo.jpeg" alt="Warwick Quant Logo" width="400"/>
-
+<p align="center">
+  <img src="/utils/images/warwick_quant_logo.jpeg" alt="Warwick Quant Logo" width="400"/>
+</p>
 
 ---
 
@@ -17,7 +18,6 @@ KnowledgeBase/
 │   ├── textbooks/         # Textbook recommendations
 │   ├── tutorials/         # How-to guides and code examples
 │   ├── careers/           # Interview preparation
-│   ├── competitions/      # Competitions and challenges
 │   └── community/         # Contribution guidelines and papers
 ├── examples/              # Full code implementations
 └── utils/                 # Images and other assets
@@ -103,6 +103,6 @@ Warwick Quant Society is the newest student-run society at the University of War
 
 ---
 
-## 📜 License
+## License
 
 This knowledge base is maintained by Warwick Quant for educational purposes. Content is curated from public sources with proper attribution. See individual resources for their respective licenses.
