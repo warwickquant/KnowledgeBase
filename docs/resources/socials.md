@@ -18,10 +18,12 @@ Follow these practitioners and researchers on X (Twitter) for insights into quan
 
 6. **[@systematicls](https://x.com/systematicls)** - Systematic trading strategies, research, quantitative finance commentary
 
-## Macro & Market Structure
+## Quantitative Research
 
 7. **[@VivekVRao1](https://x.com/VivekVRao1)** - Macro trading and market structure insights with quantitative perspective
 
+## Macro Trading
 8. **[@choffstein](https://x.com/choffstein)** - Corey Hoffstein (CIO at Newfound Research), systematic investing, portfolio construction, "Flirting with Models" podcast host
+9. **[@0xMerridew](https://x.com/0xMerridew)** - Macro trading insights, market analysis, quantitative strategies
 
 **Suggest an addition?** See [Community Contributions](../community/README.md)
